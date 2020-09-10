@@ -1,2 +1,2 @@
 # Game
-igra
+game
